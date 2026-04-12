@@ -1,2 +1,4 @@
 # Pete-Thinkful
-About Pete
+Pete's Background 
+Porfolio 
+contact information
